@@ -5,10 +5,10 @@ import java.util.Scanner;
 
 public class EmployeeDetails {
 	
-	int emp_Id;
-	String emp_Name;
-	int emp_Salary;
-	String emp_CompanyName;
+	public int emp_Id;
+	public String emp_Name;
+	public int emp_Salary;
+	public String emp_CompanyName;
 	
 	
 	public EmployeeDetails(int emp_Id, String emp_Name, int emp_Salary, String emp_CompanyName) {
